@@ -1,6 +1,6 @@
 # Duper
 
-**TODO: Add description**
+It is a tool to analyze your directories for duplicate files
 
 ## Installation
 
